@@ -13,7 +13,7 @@ The Quadrature Encoder Interface peripheral of the dsPIC DSC is configured to ob
 ### 2.1 Motor Control Application Firmware Required for the Demonstration
 
 To clone or download this application firmware on GitHub, 
-- Navigate to the [main page of this repository](https://github.com/microchip-pic-avr-solutions/mclv48v300w-33ak128mc106-optical-encoder-foc) and 
+- Navigate to the [main page of this repository](https://github.com/microchip-pic-avr-solutions/mclv48v300w-33ak128mc106-pmsm-foc-encoder) and 
 - On the tab **<> Code**, above the list of files in the right-hand corner, click Code, then from the menu, click **Download ZIP** or copy the repository URL to **clone.**
 > **Note:** </br>
 >In this document, hereinafter this firmware package is referred as **firmware.**
