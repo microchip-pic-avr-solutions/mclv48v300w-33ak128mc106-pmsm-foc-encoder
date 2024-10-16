@@ -199,7 +199,7 @@ Follow the below instructions, step by step, to set up and run the motor control
     <p align="left">
     <img  src="images/potentiometer.png" width="200"></p>
  
-10. 10. Press the push button **SW2** to change the motor direction. 
+10. Press the push button **SW2** to change the motor direction. 
        <p align="left">
      <img  src="images/pushbutton2.png" width="300"></p> 
 
