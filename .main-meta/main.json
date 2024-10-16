@@ -1,0 +1,50 @@
+{
+   "metaDataVersion":"1.0.0",
+   "category":"com.microchip.ide.project",
+   "content":{
+      "metaDataVersion":"1.3.0",
+      "name":"com.microchip.mplabx.project.mclv48v300w-33ak128mc106-pmsm-foc-encoder",
+      "version":"1.0.0",
+      "displayName":"Field Oriented Control of PMSM using optical encoder: MCLV-48V-300W and dsPIC33AK128MC106 MC DIM",
+      "projectName":"mclv48v300w-33ak128mc106-pmsm-foc-encoder",
+      "shortDescription":"Field Oriented Control(FOC) of a PMSM based on  optical encoder feedback using MCLV-48V-300W and dsPIC33AK128MC106 MC DIM ",
+      "ide":{
+         "name":"MPLABX",
+         "semverRange":">=6.20"
+      },
+      "compiler":{
+         "name":"XC-DSC",
+         "semverRange":">=3.10"
+      },
+      "dfp":{
+         "name":"dsPIC33AK-MC_DFP",
+         "semverRange":"=1.0.33"
+      },
+	  "configurator": {
+         "name": "MCC",
+         "semverRange": ">=4.0.1"
+      },
+      "device":{
+         "metaDataVersion":"1.0.0",
+         "category":"com.microchip.portal.contentRef",
+         "content":{
+            "metaDataVersion":"1.0.0",
+            "category":"com.microchip.device",
+            "name":"dsPIC33AK128MC106",
+            "versionRange":"*"
+         }
+      },
+	  "peripherals":[
+         "ADC",
+		 "PWM",
+		 "QEI"
+      ],
+      "keywords":[
+         "Motor Control",
+         "PMSM",
+         "Sensored Control",
+         "FOC",
+         "dsPIC"
+      ]
+   }
+}
