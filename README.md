@@ -1,4 +1,4 @@
-<![image](images/microchip_logo_black_red.png) 
+![image](images/microchip_logo_black_red.png) 
 
 # FOC using Optical Encoder  for PMSM:  MCLV-48V-300W Development Board and dsPI33AK128MC106 Motor Control DIM
 
